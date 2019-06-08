@@ -1,1 +1,2 @@
-hello world! I am a file
+hello world! I am a file!
+I have a cat named Nico.
